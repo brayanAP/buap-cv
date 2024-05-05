@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Brayan Ulisses Arias Perez",
+    "label": "Desarrollador fullstack con más de 6 años de experiencia, especializado en aplicaciones web y móviles.",
+    "image": "https://media.licdn.com/dms/image/D5603AQG2YQEx9fNBCA/profile-displayphoto-shrink_800_800/0/1705590410691?e=1717632000&v=beta&t=xpi4HCsbeX5ZSTGGDEAYcMxWs3rWjBnxPxn95Ur9AnE",
+    "email": "brulariaspe@gmail.com",
+    "phone": "+52 6691165952",
+    "url": "https://www.buapdev.com",
+    "summary": "Soy un Ingeniero con de experiencia en desarrollo frontend y backend. Me destaco por mi habilidad de comunicación verbal y escrita, así como por mi enfoque y productividad. Tengo una perspectiva amplia y habilidades sociales que me permiten interactuar efectivamente con diferentes equipos y stakeholders. Soy capaz de afrontar problemas y encontrar soluciones de manera colaborativa, gracias a mi experiencia en trabajo en equipo. Además, soy paciente y perseverante, y mi pasión y entusiasmo por la programación se reflejan en mi trabajo diario.",
+    "location": {
+      "address": "",
+      "postalCode": "82129",
+      "city": "Mazatlán, Sinaloa",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "buapmz",
+        "url": "https://www.linkedin.com/in/buapmz"
+      },
+      {
+        "network": "GitHub",
+        "username": "brayanAP",
+        "url": "https://github.com/brayanAP"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Apphive",
+      "position": "Full Stack Engineer",
+      "url": "https://apphive.io/es",
+      "startDate": "2019-07-01",
+      "endDate": null,
+      "summary": "Con una sólida trayectoria centrada en el levantamiento, planificación y ejecución de requerimientos, así como en la corrección de errores y la integración de REST APIs de terceros, he destacado por mi capacidad para desarrollar módulos nativos en React Native, enriqueciendo la experiencia del usuario. Mis habilidades técnicas abarcan un amplio espectro, con dominio avanzado en TypeScript, JavaScript, React, React Native, Redux y GraphQL, y conocimientos intermedios en Java, así como en tecnologías como AWS y Firebase. Mi experiencia también incluye la gestión de bases de datos como MySQL, Amazon Aurora, y competencias básicas en Objective-C, PostgreSQL y bases de datos vectoriales. Además, destaco por mi profundo conocimiento y aplicación de metodologías ágiles, especialmente SCRUM, para la gestión eficiente y colaborativa de proyectos.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "DracoApps",
+      "position": "Front-end Developer",
+      "url": null,
+      "startDate": "2017-05-01",
+      "endDate": "2019-06-01",
+      "summary": "Durante mi tiempo en DracoApps, me desempeñé principalmente en el desarrollo de sitios web y aplicaciones móviles con enfoque corporativo. Durante este periodo, adquirí experiencia en el manejo de tecnologías como React Native, HTML, CSS, SASS, WordPress, PHP, MongoDB y PostgreSQL. Participé en un total de 41 proyectos, lo que me permitió obtener un amplio conocimiento sobre el ciclo de desarrollo de software. Con el uso de metodologías ágiles, supervisamos el desarrollo completo de los proyectos, desde su concepción hasta su despliegue y publicación en las tiendas de aplicaciones. Este período fue fundamental para mi crecimiento profesional, ya que me brindó la oportunidad de aprender de manera continua y aplicar mis habilidades en proyectos variados y desafiantes.",
+      "highlights": ["Desarrollo de aplicaciones web y móviles"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Tepic",
+      "url": "https://www.tepic.tecnm.mx",
+      "area": "Ingeniero en Sistemas computacionales",
+      "studyType": "Universidad",
+      "startDate": "2014-08-01",
+      "endDate": "2019-08-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Móvil", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "GraphQL",
+      "level": "Avanzado",
+      "keywords": ["API", "Backend", "Query Language", "Data Fetching"]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermedio",
+      "keywords": ["Servicios en la Nube", "Infraestructura", "Despliegue", "Backend"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CABBY PRO",
+      "isActive": true,
+      "description": "Es una plataforma funcional para servicios de transporte, logrando 129 ventas, principalmente en los países de Colombia, Chile, Argentina, México y Venezuela. Me dediqué a recopilar requerimientos y ajustar la plantilla a través de desarrollo y seguimiento, con el fin de satisfacer las necesidades del cliente y su negocio.",
+      "highlights": ["Desarrollo de la aplicación móvil", "Desarrollo del backend", "Desarrollo del frontend"],
+      "github": null,
+      "url": null
+    }
+  ]
+}
